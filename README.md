@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Patrik Johansson
-- 🌱 I’m currently learning Java programming at Newton YH in Stockholm, Sweden
+- 🌱 I’m currently working as a java-developer at Folksam in Stockholm, Sweden.
 - 📫 How to reach me: Email: Patrikjo95@gmail.com, Phone: +46 701175555, LinkedIN: www.linkedin.com/in/patrik-johansson-195b3815a
 - 🎧 Link to 💥BANGIN'💥 spotify playlist: https://open.spotify.com/playlist/738GlI6njnOMlsBBd8JY98?si=e4d9da7374f741e6
 <!---
